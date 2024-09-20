@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.15">
   <diagram name="Seite-1" id="liFLUvJEddgJuvFbEWhZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="353" width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-6" value="Auswertungsdaten" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-5">
+          <mxGeometry width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-5">
+          <mxGeometry x="70.36363636363636" y="43" width="34.90909090909091" height="46.54545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="353" width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-9" value="Erhobene Daten" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-8">
+          <mxGeometry width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-8">
+          <mxGeometry x="70.36363636363636" y="43" width="34.90909090909091" height="46.54545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="270" width="160" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-14" value="" style="group" vertex="1" connectable="0" parent="ZY-u0qxRuWla2hT5KkOf-11">
+          <mxGeometry x="-10" width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-12" value="Publikationsdaten" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-14">
+          <mxGeometry width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-14">
+          <mxGeometry x="72.54545454545455" y="43" width="34.90909090909091" height="46.54545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="460" width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-16" value="Individuelle&lt;br&gt;Auswertungen" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-15">
+          <mxGeometry width="180" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647714-excel-128.png" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-15">
+          <mxGeometry x="70" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
