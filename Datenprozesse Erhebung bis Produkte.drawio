@@ -43,6 +43,12 @@
         <mxCell id="ZY-u0qxRuWla2hT5KkOf-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647714-excel-128.png" vertex="1" parent="ZY-u0qxRuWla2hT5KkOf-15">
           <mxGeometry x="70" y="60" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-20" value="pub.bista" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bDwiAeV5WEyGj-YXBPmm02qwcvZvkZ2KU-w98TlcpQeXnxC-r3VyIVNoHyJ0uEZHEZ4&amp;usqp=CAU;" vertex="1" parent="1">
+          <mxGeometry x="516.5" y="61.5" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY-u0qxRuWla2hT5KkOf-21" value="zhweb" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZtd-90JAvhmsLHi6kdD7_Zrdiq_edZsF2xxE8sBsoo1amhytiBdIxlejt3VQ7OJH7vI&amp;usqp=CAU;" vertex="1" parent="1">
+          <mxGeometry x="883.02" y="72.79000000000008" width="97.95" height="74.41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
