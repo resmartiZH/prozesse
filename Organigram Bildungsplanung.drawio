@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16">
   <diagram name="Seite-1" id="fauLMMAN_mLyGsYbdOVm">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-1" value="Bildungsplanung" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#0070B4;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-2" value="Bildungsmonitoring" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#0070B4;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-3" value="Bildungsstatistik" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#D40053;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-4" value="Applikationsentwicklung" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#0070B4;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-5" value="Erhebung" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#0070B4;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-6" value="Statistik" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=18;fillColor=#0070B4;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfIhgwr7CH8yhTRdPneg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="jfIhgwr7CH8yhTRdPneg-2" target="jfIhgwr7CH8yhTRdPneg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="381" as="sourcePoint" />
+            <mxPoint x="510" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
